@@ -13,7 +13,7 @@ I also like modding (Papyrus is a hell) and TTRPG ! 😸
 ## [⌨️] Programming languages 
 
 ### ```> Main languages```
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,c,r,mysql,json,md&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,c,r,mysql,md&perline=10)](https://skillicons.dev)
 
 ---
 
