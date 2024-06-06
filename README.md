@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi ! Tristan, here !👋
 
-<!--
-**tristan-saez/tristan-saez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Description
+---
 
-Here are some ideas to get you started:
+I'm a fellow engineer student specialized in AI. Here you can see personnal and school projects I made. (There will be more in the future!)
+I also like modding (Papyrus is a hell) and TTRPG ! 😸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## [⌨️] Programming languages 
+
+#### Main languages 
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,c,r,mysql,json,md&perline=10)](https://skillicons.dev)
+
+#### Other languages I know
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,bash,matlab,regex)](https://skillicons.dev)
+
+
+## [⚙️] Frameworks & Libraries
+
+#### WEB Frameworks
+[![My Skills](https://skillicons.dev/icons?i=symfony,react,flask,vite,bootstrap,jquery)](https://skillicons.dev)
+
+#### AI Libraries
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,sklearn,tensorflow)](https://skillicons.dev)
+
+#### Software Development Libraries
+[![My Skills](https://skillicons.dev/icons?i=qt)](https://skillicons.dev)
+
+
+## [🔧] Tools
+
+#### IDE
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vim,vscodium)](https://skillicons.dev)
+
+#### Dev Tools
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,docker)](https://skillicons.dev)
+
+#### OS
+[![My Skills](https://skillicons.dev/icons?i=kali,ubuntu,windows,debian)](https://skillicons.dev)
+
+#### Other Tools
+[![My Skills](https://skillicons.dev/icons?i=obsidian,figma)](https://skillicons.dev)
+
+
+## [📖] I'm learning !
+[![My Skills](https://skillicons.dev/icons?i=godot,blender)](https://skillicons.dev)
