@@ -8,6 +8,9 @@ I also like modding (Papyrus is a hell) and TTRPG ! 😸
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tristan-saez&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tristan-saez&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 <br/>
 
 ## [⌨️] Programming languages 
