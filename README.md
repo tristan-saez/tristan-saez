@@ -15,7 +15,7 @@ I also like modding (Papyrus is a hell) and TTRPG ! 😸
 
 #### Other languages I know
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,bash,matlab,regex)](https://skillicons.dev)
-
+\
 
 ## [⚙️] Frameworks & Libraries
 
@@ -27,7 +27,7 @@ I also like modding (Papyrus is a hell) and TTRPG ! 😸
 
 #### Software Development Libraries
 [![My Skills](https://skillicons.dev/icons?i=qt)](https://skillicons.dev)
-
+\
 
 ## [🔧] Tools
 
