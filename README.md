@@ -8,7 +8,7 @@ I also like modding (Papyrus is a hell) and TTRPG ! 😸
 
 #### 📫 My contacts
 
-- **Email :** [tristan.saez3@gmail.com](mailto:tristan.saez3@gmail.com)
+- **Email :** [tristan.saez3@gmail.com](mailto:tristan.saez3@gmail.com?subject=[GitHub])
 - **LinkedIn :** [Tristan Saëz](https://www.linkedin.com/in/tristan-saez-937571223/)
 - **Instagram :** [trlseysh](https://www.instagram.com/trlseysh/)
 ---
