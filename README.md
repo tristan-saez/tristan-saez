@@ -6,6 +6,11 @@
 I'm a fellow engineer student specialized in AI. Here you can see personnal and school projects I made. (There will be more in the future!)
 I also like modding (Papyrus is a hell) and TTRPG ! 😸
 
+#### 📫 My contacts
+
+- **Email :** [tristan.saez3@gmail.com](mailto:tristan.saez3@gmail.com)
+- **LinkedIn :** [Tristan Saëz](https://www.linkedin.com/in/tristan-saez-937571223/)
+- **Instagram :** [trlseysh](https://www.instagram.com/trlseysh/)
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tristan-saez&theme=dark&show_icons=true&hide_border=true&count_private=true)
@@ -47,12 +52,8 @@ I also like modding (Papyrus is a hell) and TTRPG ! 😸
 ### ```> IDE```
 [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vim,vscodium)](https://skillicons.dev)
 
----
-
 ### ```> Dev Tools```
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,docker)](https://skillicons.dev)
-
----
 
 ### ```> OS```
 [![My Skills](https://skillicons.dev/icons?i=kali,ubuntu,windows,debian)](https://skillicons.dev)
