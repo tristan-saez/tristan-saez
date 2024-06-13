@@ -40,11 +40,6 @@ I also like modding (Papyrus is a hell) and TTRPG ! 😸
 ### ```> AI Libraries```
 [![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
----
-
-### ```> Software Development Libraries```
-[![My Skills](https://skillicons.dev/icons?i=qt)](https://skillicons.dev)
-
 <br/>
 
 ## [🔧] Tools
